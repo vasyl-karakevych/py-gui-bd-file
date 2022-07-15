@@ -4,7 +4,7 @@ from tkinter import messagebox
 from users import User
 from usersToFile import UsersToFile
 from bd import DB
-
+#
 # draw GUI interface
 class GUI(tk.Tk):
     def __init__(self):
